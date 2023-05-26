@@ -1,13 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:wght@700&family=Hanken+Grotesk:wght@500;700;800&family=Montserrat:wght@500;700&display=swap");
+
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
+body {
+  background-color: hsl(221, 100%, 96%);
+}
 
+body p {
+  font-size: 18px;
+}
 
+header {
+  background-color: hsl(234, 85%, 45%);
+}
 
-
-
+main {
+  background-color: hsl(0, 0%, 100%);
+}
 
 .attribution {
   font-size: 11px;
