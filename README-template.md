@@ -18,8 +18,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Overview
-
 ### The challenge
 
 Users should be able to:
@@ -34,9 +32,12 @@ Users should be able to:
 
 ## My process
 
-Set up the HTML page, sectioning off the different portions and putting them in Header, Main, and Footer.
+Set up the HTML page, sectioning off the different portions and putting them in Header, Main, and Footer
 Create the CSS page for the styling, and move the style in the HTML into the CSS
-
+Using CSS set up the background colors for each part, I think it's a gradient for the results part
+The score parts are pastel primary colors
+The scores are positioned to the right of the text
+Theres some shading under the card
 
 ### Built with
 
@@ -92,11 +93,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
