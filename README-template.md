@@ -38,6 +38,7 @@ Using CSS set up the background colors for each part, I think it's a gradient fo
 The score parts are pastel primary colors
 The scores are positioned to the right of the text
 Theres some shading under the card
+the
 
 ### Built with
 
